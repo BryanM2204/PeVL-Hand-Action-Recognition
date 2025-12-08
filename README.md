@@ -1,11 +1,5 @@
 # H-PeVL CSE-5819 Project
-
-## Overview
-
-## Architecture
-
-## Local Setup
-
+# Free to use by anyone
 ## Contributors:
 - Bryan Martinez
 - Stuti Desai
